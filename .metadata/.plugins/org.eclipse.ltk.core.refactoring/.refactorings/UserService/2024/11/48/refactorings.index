@@ -1,0 +1,6 @@
+1732641043617	Rename package 'com.example'
+1732670295586	Rename type 'AuthService'
+1732670308380	Rename type 'AuthServiceTest'
+1732670372018	Rename type 'AuthServiceImpl'
+1732670375100	Rename type 'AuthServiceImplTest'
+1732670455153	Extract interface 'AuthService'
